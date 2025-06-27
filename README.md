@@ -29,7 +29,7 @@ This repository contains two beginner-friendly Excel projects using Microsoft Ex
 📄 File: `Student_Performance_Project.xlsx`
 
 📷 Sample Dashboard:
-![Student Dashboard](Download/Student_Dashboard_Screenshot.png)
+![Student Dashboard](Student_Dashboard_Screenshot.png)
 
 ---
 
